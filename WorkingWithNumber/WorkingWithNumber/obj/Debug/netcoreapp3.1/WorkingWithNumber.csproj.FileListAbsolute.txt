@@ -1,0 +1,13 @@
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.exe
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.deps.json
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.runtimeconfig.json
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.runtimeconfig.dev.json
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.dll
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.pdb
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.csprojAssemblyReference.cache
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.AssemblyInfoInputs.cache
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.AssemblyInfo.cs
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.dll
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.pdb
+E:\College\Binod Sir\Practise C#\WorkingWithNumber\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.genruntimeconfig.cache

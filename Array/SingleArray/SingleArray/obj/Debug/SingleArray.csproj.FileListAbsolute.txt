@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\SingleArray\SingleArray\bin\Debug\SingleArray.exe.config
+C:\Users\acer\Desktop\SingleArray\SingleArray\bin\Debug\SingleArray.exe
+C:\Users\acer\Desktop\SingleArray\SingleArray\bin\Debug\SingleArray.pdb
+C:\Users\acer\Desktop\SingleArray\SingleArray\obj\Debug\SingleArray.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\SingleArray\SingleArray\obj\Debug\SingleArray.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\SingleArray\SingleArray\obj\Debug\SingleArray.exe
+C:\Users\acer\Desktop\SingleArray\SingleArray\obj\Debug\SingleArray.pdb

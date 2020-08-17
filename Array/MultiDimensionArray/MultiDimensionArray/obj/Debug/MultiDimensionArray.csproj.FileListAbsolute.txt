@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\MultiDimensionArray\MultiDimensionArray\bin\Debug\MultiDimensionArray.exe.config
+C:\Users\acer\Desktop\MultiDimensionArray\MultiDimensionArray\bin\Debug\MultiDimensionArray.exe
+C:\Users\acer\Desktop\MultiDimensionArray\MultiDimensionArray\bin\Debug\MultiDimensionArray.pdb
+C:\Users\acer\Desktop\MultiDimensionArray\MultiDimensionArray\obj\Debug\MultiDimensionArray.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\MultiDimensionArray\MultiDimensionArray\obj\Debug\MultiDimensionArray.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\MultiDimensionArray\MultiDimensionArray\obj\Debug\MultiDimensionArray.exe
+C:\Users\acer\Desktop\MultiDimensionArray\MultiDimensionArray\obj\Debug\MultiDimensionArray.pdb

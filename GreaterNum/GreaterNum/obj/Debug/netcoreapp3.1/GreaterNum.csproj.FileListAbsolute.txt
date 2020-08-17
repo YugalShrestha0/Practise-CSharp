@@ -1,0 +1,13 @@
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\bin\Debug\netcoreapp3.1\GreaterNum.exe
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\bin\Debug\netcoreapp3.1\GreaterNum.deps.json
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\bin\Debug\netcoreapp3.1\GreaterNum.runtimeconfig.json
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\bin\Debug\netcoreapp3.1\GreaterNum.runtimeconfig.dev.json
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\bin\Debug\netcoreapp3.1\GreaterNum.dll
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\bin\Debug\netcoreapp3.1\GreaterNum.pdb
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\obj\Debug\netcoreapp3.1\GreaterNum.csprojAssemblyReference.cache
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\obj\Debug\netcoreapp3.1\GreaterNum.AssemblyInfoInputs.cache
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\obj\Debug\netcoreapp3.1\GreaterNum.AssemblyInfo.cs
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\obj\Debug\netcoreapp3.1\GreaterNum.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\obj\Debug\netcoreapp3.1\GreaterNum.dll
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\obj\Debug\netcoreapp3.1\GreaterNum.pdb
+E:\College\Binod Sir\Practise C#\GreaterNum\GreaterNum\obj\Debug\netcoreapp3.1\GreaterNum.genruntimeconfig.cache

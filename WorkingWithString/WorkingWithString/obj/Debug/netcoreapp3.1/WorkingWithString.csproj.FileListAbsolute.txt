@@ -1,0 +1,13 @@
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.exe
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.deps.json
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.runtimeconfig.json
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.runtimeconfig.dev.json
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.dll
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\bin\Debug\netcoreapp3.1\WorkingWithString.pdb
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.csprojAssemblyReference.cache
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.AssemblyInfoInputs.cache
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.AssemblyInfo.cs
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.dll
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.pdb
+E:\College\Binod Sir\Practise C#\WorkingWithString\WorkingWithString\obj\Debug\netcoreapp3.1\WorkingWithString.genruntimeconfig.cache
